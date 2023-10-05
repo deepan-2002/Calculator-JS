@@ -17,6 +17,9 @@ main{
 
 input{
     width: 100%;
+    padding: 10px;
+    text-align: right;
+    font-size: x-large !important;
 }
 
 button{
@@ -24,4 +27,9 @@ button{
     height: 70px;
     margin: 10px !important;
     border-radius: 50% !important;
+    border: none;
+    background-color: transparent;
+    box-shadow: 4px 4px 5px #aaa;
+    color: #fff !important;
+    font-size: large;
 }
